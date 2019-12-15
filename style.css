@@ -1,5 +1,13 @@
 /* Standard */
 
+html {
+	font-family: 'Roboto', sans-serif;
+}
+
+main {
+	background: #485564;
+	color: #FAFAFA;
+
 h1 {
   padding: 30px;
   text-align: center;
